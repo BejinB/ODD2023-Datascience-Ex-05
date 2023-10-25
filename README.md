@@ -6,13 +6,13 @@ To read the given data and perform Feature Generation process and save the data 
 Feature Generation (also known as feature construction, feature extraction or feature engineering) is the process of transforming features into new features that better relate to the target.
 
 # Algorithm:
-Step 1: Read the given Data.
+### Step 1: Read the given Data.
 
-Step 2: Clean the Data Set using Data Cleaning Process.
+### Step 2: Clean the Data Set using Data Cleaning Process.
 
-Step 3: Apply Feature Generation techniques to all the feature of the data set.
+### Step 3: Apply Feature Generation techniques to all the feature of the data set.
 
-Step 4: Save the data to the file.
+### Step 4: Save the data to the file.
 
 # PROGRAM:
 Name: BEJIN B   
@@ -133,4 +133,4 @@ dfc
 ![image](https://github.com/ASHWINKUMAR2903/ODD2023-Datascience-Ex-05/assets/119407186/96a9a687-0c38-47a8-8fdd-e86586a249f2)
 
 # RESULT:
-The above Feature Generation process has been Executed Seccessfully.
+The above Feature Generation process has been Executed Successfully.
